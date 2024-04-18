@@ -2,3 +2,5 @@
 cats/
 dogs/
 .DS_Store/
+resnet50_cat_dog_classifier.pth
+catdog.pth
